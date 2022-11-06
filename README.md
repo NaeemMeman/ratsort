@@ -1,2 +1,3 @@
-# ratsort
-Sorting strings by rational numbers.
+# ratsort: rational strings sorting
+This is an modification of the natural sort algorithm for handling rational numbers.
+
